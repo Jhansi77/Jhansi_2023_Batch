@@ -1,2 +1,6 @@
 Hi jhansi Daggula
+<<<<<<< HEAD
 Working on Galaxe Solutions
+=======
+In Bengalore Location
+>>>>>>> 389e3996719f4af02231ba2b9b141395ebb15f25
